@@ -1,6 +1,15 @@
 # Virtual environment
 .venv/
-# Python file with token
-config.py
-# Byte-compiled
+venv/
+env/
+
+# Python cache
 __pycache__/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
